@@ -3,7 +3,7 @@
 
 Technologies Used:
 
-◼ .Net Framework
+◼ .NET Framework
 
 ◼ C#
 
